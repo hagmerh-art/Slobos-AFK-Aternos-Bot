@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UWUminecraft.aternos.me",
-    "port": 39643,
+    "ip": "UWUminecraft.aternos.me:39643",
+    "port": ,
     "version": "",
     "try-creative": false
   },
